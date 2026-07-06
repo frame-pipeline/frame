@@ -1,0 +1,23 @@
+[package]
+name = "frag_gene_scan_rs"
+version = "1.1.0"
+authors = ["Felix Van der Jeugt <felix.vanderjeugt@ugent.be>"]
+edition = "2018"
+license = "GPL-3.0-or-later"
+description = "Rust implementation of the gene prediction model for short and error-prone reads"
+repository = "https://github.com/unipept/FragGeneScanRs"
+readme = "README.md"
+keywords = ["dna", "protein", "gene"]
+categories = ["command-line-utilities", "science"]
+exclude = ["example/*"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+clap = "2.33.3"
+seq_io = "0.3.1"
+anyhow = "1.0"
+thiserror = "1.0.25"
+rayon = "1.5.1"
+strum = "0.21.0"
+strum_macros = "0.21.0"

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="226.77" height="119.63" version="1.1" viewBox="0 -32 226.77 119.63" xmlns="http://www.w3.org/2000/svg">
+ <g fill="#e15759">
+  <g stroke="#cacaca" stroke-width=".5">
+   <path d="m208.27 10.145v-33.224"/>
+   <path d="m20.033-23.079v33.224"/>
+   <path d="m114.15-23.079v33.224"/>
+   <path d="m184.74 10.145v-33.224"/>
+   <path d="m31.798-23.079v33.224"/>
+   <path d="m125.92-23.079v33.224"/>
+   <path d="m220.03 10.145v-33.224"/>
+   <path d="m67.092-23.079v33.224"/>
+   <path d="m137.68-23.079v33.224"/>
+   <path d="m196.5 10.145v-33.224"/>
+   <path d="m78.856-23.079v33.224"/>
+   <path d="m149.44-23.079v33.224"/>
+   <path d="m90.621-23.079v33.224"/>
+   <path d="m161.21-23.079v33.224"/>
+   <path d="m102.39-23.079v33.224"/>
+   <path d="m172.97-23.079v33.224"/>
+   <path d="m55.327-23.079v33.224"/>
+   <path d="m43.562-23.079v33.224"/>
+   <path d="m20.033-23.079h200"/>
+  </g>
+  <path d="m20.033 10.145h200" stroke="#090909" stroke-width=".5"/>
+  <g stroke="#000" stroke-width=".5">
+   <path d="m20.045 11.892v-1.747"/>
+   <path d="m114.16 11.892v-1.747"/>
+   <path d="m184.74 10.145v1.747"/>
+   <path d="m31.809 11.892v-1.747"/>
+   <path d="m125.92 11.892v-1.747"/>
+   <path d="m220.03 10.145v1.747"/>
+   <path d="m67.101 11.892v-1.747"/>
+   <path d="m137.69 11.892v-1.747"/>
+   <path d="m196.5 10.145v1.747"/>
+   <path d="m78.865 11.892v-1.747"/>
+   <path d="m149.45 11.892v-1.747"/>
+   <path d="m90.629 11.892v-1.747"/>
+   <path d="m161.21 11.892v-1.747"/>
+   <path d="m102.39 11.892v-1.747"/>
+   <path d="m172.98 11.892v-1.747"/>
+   <path d="m55.337 11.892v-1.747"/>
+   <path d="m43.573 11.892v-1.747"/>
+  </g>
+  <g stroke="#cacaca" stroke-width=".5">
+   <path d="m20.033 71.507v-33.217"/>
+   <path d="m34.319 71.507v-33.217"/>
+   <path d="m48.604 71.507v-33.217"/>
+   <path d="m62.89 71.507v-33.217"/>
+   <path d="m77.176 71.507v-33.217"/>
+   <path d="m91.461 71.507v-33.217"/>
+   <path d="m105.75 71.507v-33.217"/>
+   <path d="m120.03 71.507v-33.217"/>
+   <path d="m134.32 71.507v-33.217"/>
+   <path d="m148.6 71.507v-33.217"/>
+   <path d="m162.89 71.507v-33.217"/>
+   <path d="m177.18 71.507v-33.217"/>
+   <path d="m191.46 71.507v-33.217"/>
+   <path d="m205.75 71.507v-33.217"/>
+  </g>
+  <rect x="20.033" y="-1.0788" width="189.64" height="10"/>
+ </g>
+ <rect x="20.033" y="-12.079" width="162.71" height="10" fill="#f28e2b"/>
+ <rect x="20.033" y="-23.079" width="8.5944" height="10" fill="#4e79a7"/>
+ <rect x="20.033" y="60.291" width="194.02" height="10" fill="#e15759"/>
+ <rect x="20.033" y="49.291" width="123.3" height="10" fill="#f28e2b"/>
+ <rect x="20.033" y="38.291" width="45.269" height="10" fill="#4e79a7"/>
+ <g font-family="sans-serif" letter-spacing="0px">
+  <g font-size="5.3333px">
+   <text x="1.4765629" y="-16.137394" style="line-height:1.25" xml:space="preserve"><tspan x="1.4765629" y="-16.137394" font-size="5.3333px">FGS</tspan></text>
+   <text x="1.4765629" y="-5.1373892" style="line-height:1.25" xml:space="preserve"><tspan x="1.4765629" y="-5.1373892" font-size="5.3333px">FGS+</tspan></text>
+   <text x="1.4765629" y="5.8626099" style="line-height:1.25" xml:space="preserve"><tspan x="1.4765629" y="5.8626099" font-size="5.3333px">FGSrs</tspan></text>
+   <text x="120.01204" y="22.42819" style="line-height:1.25" xml:space="preserve"><tspan x="120.01204" y="22.42819" font-family="sans-serif" font-size="5.3333px" font-weight="bold" text-align="center" text-anchor="middle">Reads per second</tspan></text>
+   <text x="51.182163" y="-25.94792" style="line-height:1.25" xml:space="preserve"><tspan x="51.182163" y="-25.94792" font-family="sans-serif" font-size="5.3333px" font-weight="bold" text-align="center" text-anchor="middle">Short reads (80bp)</tspan></text>
+  </g>
+  <g font-size="4px">
+   <text x="20.046236" y="16.471325" style="line-height:1.25" xml:space="preserve"><tspan x="20.046236" y="16.471325" font-family="sans-serif" font-size="4px" text-align="center" text-anchor="middle">0</tspan></text>
+   <text x="78.843658" y="16.471325" style="line-height:1.25" xml:space="preserve"><tspan x="78.843658" y="16.471325" font-family="sans-serif" font-size="4px" text-align="center" text-anchor="middle">5 000</tspan></text>
+   <text x="137.59811" y="16.471325" style="line-height:1.25" xml:space="preserve"><tspan x="137.59811" y="16.471325" font-family="sans-serif" font-size="4px" text-align="center" text-anchor="middle">10 000</tspan></text>
+   <text x="196.418" y="16.471325" style="line-height:1.25" xml:space="preserve"><tspan x="196.418" y="16.471325" font-family="sans-serif" font-size="4px" text-align="center" text-anchor="middle">15 000</tspan></text>
+  </g>
+  <g font-size="5.3333px">
+   <text x="1.4765629" y="44.881977" style="line-height:1.25" xml:space="preserve"><tspan x="1.4765629" y="44.881977" font-size="5.3333px">FGS</tspan></text>
+   <text x="1.4765629" y="55.881977" style="line-height:1.25" xml:space="preserve"><tspan x="1.4765629" y="55.881977" font-size="5.3333px">FGS+</tspan></text>
+   <text x="1.4765629" y="66.881973" style="line-height:1.25" xml:space="preserve"><tspan x="1.4765629" y="66.881973" font-size="5.3333px">FGSrs</tspan></text>
+   <text x="120.01204" y="84.518402" style="line-height:1.25" xml:space="preserve"><tspan x="120.01204" y="84.518402" font-family="sans-serif" font-size="5.3333px" font-weight="bold" text-align="center" text-anchor="middle">Reads per second</tspan></text>
+   <text x="53.765415" y="35.337086" style="line-height:1.25" xml:space="preserve"><tspan x="53.765415" y="35.337086" font-family="sans-serif" font-size="5.3333px" font-weight="bold" text-align="center" text-anchor="middle">Long reads (1328bp)</tspan></text>
+  </g>
+  <g font-size="4px">
+   <text x="20.046236" y="77.48365" style="line-height:1.25" xml:space="preserve"><tspan x="20.046236" y="77.48365" font-family="sans-serif" font-size="4px" text-align="center" text-anchor="middle">0</tspan></text>
+   <text x="48.590626" y="77.48365" style="line-height:1.25" xml:space="preserve"><tspan x="48.590626" y="77.48365" font-family="sans-serif" font-size="4px" text-align="center" text-anchor="middle">200</tspan></text>
+   <text x="162.8031" y="77.48365" style="line-height:1.25" xml:space="preserve"><tspan x="162.8031" y="77.48365" font-family="sans-serif" font-size="4px" text-align="center" text-anchor="middle">1000</tspan></text>
+   <text x="191.37453" y="77.48365" style="line-height:1.25" xml:space="preserve"><tspan x="191.37453" y="77.48365" font-family="sans-serif" font-size="4px" text-align="center" text-anchor="middle">1200</tspan></text>
+  </g>
+ </g>
+ <g fill="#e15759" stroke-width=".5">
+  <path d="m220.03 71.507v-33.217" stroke="#cacaca"/>
+  <g stroke="#040404">
+   <path d="m20.033 71.507v1.9215"/>
+   <path d="m34.319 71.507v1.9215"/>
+   <path d="m48.604 71.507v1.9215"/>
+   <path d="m62.89 71.507v1.9215"/>
+   <path d="m77.176 71.507v1.9215"/>
+   <path d="m91.461 71.507v1.9215"/>
+   <path d="m105.75 71.507v1.9215"/>
+   <path d="m120.03 71.507v1.9215"/>
+   <path d="m134.32 71.507v1.9215"/>
+   <path d="m148.6 71.507v1.9215"/>
+   <path d="m162.89 71.507v1.9215"/>
+   <path d="m177.18 71.507v1.9215"/>
+   <path d="m191.46 71.507v1.9215"/>
+   <path d="m205.75 71.507v1.9215"/>
+   <path d="m220.03 71.507v1.9215"/>
+   <path d="m220.03 71.507h-200"/>
+  </g>
+  <path d="m20.033 38.291h200" stroke="#cacaca"/>
+  <path d="m208.27 10.145v1.747" stroke="#000"/>
+ </g>
+ <g font-family="sans-serif" font-size="4px" letter-spacing="0px">
+  <text x="77.210884" y="77.48365" style="line-height:1.25" xml:space="preserve"><tspan x="77.210884" y="77.48365" font-family="sans-serif" font-size="4px" text-align="center" text-anchor="middle">400</tspan></text>
+  <text x="105.74032" y="77.48365" style="line-height:1.25" xml:space="preserve"><tspan x="105.74032" y="77.48365" font-family="sans-serif" font-size="4px" text-align="center" text-anchor="middle">600</tspan></text>
+  <text x="134.31566" y="77.48365" style="line-height:1.25" xml:space="preserve"><tspan x="134.31566" y="77.48365" font-family="sans-serif" font-size="4px" text-align="center" text-anchor="middle">800</tspan></text>
+  <text x="219.94595" y="77.48365" style="line-height:1.25" xml:space="preserve"><tspan x="219.94595" y="77.48365" font-family="sans-serif" font-size="4px" text-align="center" text-anchor="middle">1400</tspan></text>
+ </g>
+</svg>

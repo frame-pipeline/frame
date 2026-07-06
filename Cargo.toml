@@ -1,0 +1,55 @@
+[package]
+name = "frame"
+version = "0.2.0"
+edition = "2021"
+authors = ["FRAME"]
+description = "FRAME: Frame Resolved Assembly for Metagenomics - A de novo metagenomic assembler with gene prediction"
+license = "MIT"
+repository = "https://github.com/frame-pipeline/frame"
+
+[lib]
+name = "frame"
+path = "src/lib.rs"
+
+[[bin]]
+name = "frame"
+path = "src/main.rs"
+
+[dependencies]
+seq_io = "0.3.4"
+needletail = "0.7.2"
+
+smallvec = "1.11"
+rustc-hash = "2.1.0"
+dashmap = "6.1.0"
+petgraph = "0.6.5"
+wyhash = "0.6.0"
+flate2 = "1.0"
+rayon = "1.11.0"
+
+frag_gene_scan_rs = { path = "./lib/FragGeneScanRs" }
+ndarray = "0.15"
+
+fastbit = "0.11.1"
+
+serde = { version = "1.0", features = ["derive"] }
+
+clap = { version = "4.4", features = ["derive"] }
+log = "0.4"
+env_logger = "0.11"
+anyhow = "1.0"
+thiserror = "1.0"
+toml = "0.8"
+
+[dev-dependencies]
+tempfile = "3.8"
+
+[profile.release]
+opt-level = 3
+lto = true
+codegen-units = 1
+panic = "abort"
+strip = true
+
+[profile.dev]
+opt-level = 1
